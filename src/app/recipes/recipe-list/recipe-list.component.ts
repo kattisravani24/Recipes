@@ -10,6 +10,7 @@ export class RecipeListComponent implements OnInit {
   recipes:Recipe[] = [
     new Recipe('PaniPuri', 'Life', 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIXswEuhcMeTu2RpTwtwJgEx-sAP0TXIK_C1mn63WVE7kQKkCg&usqp=CAU'),
     new Recipe('PaniPuri', 'Life', 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIXswEuhcMeTu2RpTwtwJgEx-sAP0TXIK_C1mn63WVE7kQKkCg&usqp=CAU'),
+    new Recipe('PaniPuri', 'Life', 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIXswEuhcMeTu2RpTwtwJgEx-sAP0TXIK_C1mn63WVE7kQKkCg&usqp=CAU'),
     new Recipe('PaniPuri', 'Life', 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIXswEuhcMeTu2RpTwtwJgEx-sAP0TXIK_C1mn63WVE7kQKkCg&usqp=CAU')
   ];
   constructor() { }
